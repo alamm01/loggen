@@ -14,7 +14,7 @@ SVG Logo Generator is a Node.js command-line application that enables users to c
 
 ### Installation
 1. Clone the repository:
-`git clone https://github.com/your-repository/your-project.git``
+`git clone https://github.com/your-repository/your-project.git`
 2. Navigate to the project directory:
 `cd your-project`
 3. Install the dependencies:
