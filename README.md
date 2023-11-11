@@ -14,11 +14,11 @@ SVG Logo Generator is a Node.js command-line application that enables users to c
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/your-repository/your-project.git
+`git clone https://github.com/your-repository/your-project.git``
 2. Navigate to the project directory:
-cd your-project
+`cd your-project``
 3. Install the dependencies:
-npm install
+`npm install``
 
 ## Usage Instructions
 To run the application, use the following command in the terminal:
@@ -34,7 +34,7 @@ After completing these prompts, the application will generate an SVG file named 
 
 ## Testing
 To run tests, use the following command:
-npm test
+`npm test``
 
 This will execute the Jest tests defined in the project to ensure the shape classes are working as expected.
 
